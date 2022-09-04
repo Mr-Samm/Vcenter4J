@@ -4,8 +4,8 @@ Note: this script has been tested on kali linux, parrot os security.
 
 just run the script with bash:
 ==================================================
-git clone https://github.com/Mr-Samm/Vcenter4J.git
-chmod a+x vcenter4j.sh
+git clone https://github.com/Mr-Samm/Vcenter4J.git &&
+chmod a+x vcenter4j.sh &&
 bash vcenter4j.sh
 
 ==================================================
