@@ -11,7 +11,7 @@ bash vcenter4j.sh
 ==================================================
 
 
-once the installation finished enter target vcenter IP local IP and a free local port like 4444 than let it do its maginc.
+once the installation finished enter target vcenter IP local IP and a free local port like 4444 than let it do its magic.
 
 
 than you will be prompt with a root shell on target vcenter.
