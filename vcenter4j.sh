@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author: Cham
+#Author: Sam
 
 figlet -c Vcenter4j
 
